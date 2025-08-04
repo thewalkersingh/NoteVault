@@ -1,0 +1,67 @@
+--------------------------------	Week 1	------------------------------
+1. Getting Started in JS
+	a. What is JS
+	b. Working of JS
+	c. History of JS (ECMA)
+2. Fundamentals of JS-I
+	a. Intro to code structure
+	b. Variable in JS
+	c. Naming convention
+	d. Let, const and var keyword
+	e. Data types
+	f. Wrapper object
+	g. Methods in JS
+3. Fundamentals of JS -II
+	a. Operatiors in JS
+	b. Comparison operator
+	c. Logical operator
+	d. Precedence
+	e. Type coercion
+	f. Type conversion
+
+--------------------------------	Week 2	------------------------------
+1. Working Of JS
+	a. Execution Context
+	b. Hoisting
+	c. Call Stack
+	d. Scope
+	e. Scope Chaining
+	f. Undefined, Not Defined and TDZ
+	g. Strict Mode
+	h. Let and var
+	i. Closures
+	j. JS runtime
+2. Function in JS
+	a. Function Expression
+	b. Arrow Function
+	c. IIFE
+	d. Pure function
+	e. Callback function
+	f. Function returning Function
+	g. Higher Order Functions
+	h. Currying
+	i. map(), reduce(), filter(), find(), findIndex()
+	j. this keyword
+3. OOP in JS
+	a. Object literals
+	b. this of Objects
+	c. Constructor function
+	d. Prototype
+	e. Prototype Chain
+	f. Arrays Prototype
+	g. Object.create
+	h. call(), apply(), bind()
+	i. Object destructuring
+	j. Array Destructuring
+4. ES6 Classes
+	a. Class in JS
+	b. Constructor function vs classes
+	c. Encapsulation
+	d. Inheritance in classes
+	e. Inheritance in Constructor function
+	f. static keyword
+	g. getter and setter
+	h. built-in classes
+	i. JSON
+	j. Shallow copy
+	k. Deep copy
