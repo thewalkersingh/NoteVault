@@ -1,0 +1,89 @@
+𝟏. 𝐓𝐰𝐨 𝐒𝐮𝐦: Hashing, Arrays
+𝟐. 𝐌𝐞𝐫𝐠𝐞 𝐈𝐧𝐭𝐞𝐫𝐯𝐚𝐥𝐬: Sorting, Greedy
+𝟑. 𝐅𝐢𝐧𝐝 𝐅𝐢𝐫𝐬𝐭 𝐚𝐧𝐝 𝐋𝐚𝐬𝐭 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐨𝐟 𝐄𝐥𝐞𝐦𝐞𝐧𝐭: Binary Search
+𝟒. 𝐃𝐞𝐭𝐞𝐜𝐭 𝐂𝐲𝐜𝐥𝐞 𝐢𝐧 𝐚 𝐋𝐢𝐧𝐤𝐞𝐝 𝐋𝐢𝐬𝐭: Linked List, Floyd’s Cycle Detection
+𝟓. 𝐋𝐑𝐔 𝐂𝐚𝐜𝐡𝐞: HashMap + Doubly Linked List (Design, O(1) Operations)
+𝟔. 𝐒𝐮𝐛𝐬𝐞𝐭𝐬: Recursion, Backtracking
+𝟕. 𝐊𝐭𝐡 𝐋𝐚𝐫𝐠𝐞𝐬𝐭 𝐄𝐥𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 𝐚𝐧å 𝐀𝐫𝐫𝐚𝐲: Heap (Priority Queue)
+𝟖. 𝐋𝐨𝐧𝐠𝐞𝐬𝐭 𝐏𝐚𝐥𝐢𝐧𝐝𝐫𝐨𝐦𝐢𝐜 𝐒𝐮𝐛𝐬𝐭𝐫𝐢𝐧𝐠: Dynamic Programming (DP), Strings
+𝟗. 𝐖𝐨𝐫𝐝 𝐁𝐫𝐞𝐚𝐤: Dynamic Programming, Trie (Optional)
+𝟏𝟎. 𝐃𝐢𝐣𝐤𝐬𝐭𝐫𝐚’𝐬 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦: Graphs, Shortest Path, Priority Queue
+𝟏𝟏. 𝐇𝐚𝐦𝐢𝐥𝐭𝐨𝐧𝐢𝐚𝐧 𝐏𝐚𝐭𝐡: Graphs, Backtracking, Bitmask DP (Advanced)
+
+Fast lookup / frequency:	HashMap / HashSet
+Ordered unique items: TreeSet / TreeMap
+“Find kth / medians / top-K”: Heap / Quick-select
+Window / substring stats: Sliding-window + HashMap
+“Min # of … while …”: Greedy + Sorting / Heap
+Paths in un-weighted graph: BFS
+Shortest path weighted: Dijkstra (positive) / Bellman-Ford (neg)
+Connectivity / cycles: Union-Find (DSU)
+“All possibilities / combos”: Backtracking + pruning
+“Min cost to reach state”: Dynamic Programming
+Range query + updates: SegmentTree / Fenwick
+Search in monotonic space: Binary Search-on-answer
+Lexicographic string search: Trie / KMP / Z-algo
+Scheduling / intervals: Sort + Greedy sweep-line
+2-sum / 3-sum / k-sum: Two-pointer + HashSet
+“Counting pairs with X property”: Prefix-sum / Hash Freq
+Large integer math: Bitwise DP / BigInteger
+Flow / matching: Dinic / Kuhn (advanced)
+
+two pointer
+fast & slow pointers
+sliding window
+in-place reversal of a LL
+modified binary search
+islands (matrix traversal)
+merge intervals
+two heaps
+top K elements
+K-way merge
+cyclic sort
+breadth-first search (graph or tree)
+depth-first search (graph or tree)
+topological sort
+fibonacci numbers
+subsets
+0/1 knapsack
+palindromic subsequence
+longest common substring
+bitwise XOR
+
+----------------------
+Top 25 alog
+1. Basic
+Huffman coding compression alog
+Euclid's algo
+Union Find Algo
+
+2. Searching
+Linear Search
+Binary Search
+Jump Search
+DFS
+BFS
+
+3. Sorting
+Insertion Sort
+Selection sort
+Bubble Sort
+Heap sort
+Merge sort
+Quick sort
+Counting sort
+
+4. Arrays
+Kadane's algo
+Floyd's cycle Detection algo
+KMP algo
+Quick select algo
+Boyer -more majority vote alog
+
+5. Graphs
+Kruskal's algo
+Dijkstra's algo
+Bellman ford algo
+Topological sort
+Flood fill algo
+
