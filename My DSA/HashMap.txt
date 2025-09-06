@@ -1,0 +1,39 @@
+HashMap
+
+1. Maximum frequency number
+You are given an array of integers that contain numbers in random order. Write a program to find and return the number which occurs the maximum times in the given input.
+If two or more elements are having the maximum frequency, return the element which occurs in the array first.
+
+
+2. Print intersection
+You have been given two integer arrays/lists (ARR1 and ARR2) of size N and M, respectively. You need to print their intersection; An intersection for this problem can be defined when both the arrays/lists contain a particular value or to put it in other words, when there is a common value that exists in both the arrays/lists.
+Note :
+Input arrays/lists can contain duplicate elements.
+The intersection elements printed would be in the order they appear in the second array/list (ARR2).
+
+
+3. Pair sum to 0
+Given a random integer array A of size N. Find and print the count of pair of elements in the array which sum up to 0.
+Note: 
+Array A can contain duplicate elements as well.
+
+
+4. Extract Unique characters
+Given a string S, you need to remove all the duplicates. That means, the output string should contain each character only once. The respective order of characters should remain same, as in the input string.
+
+
+5. Longest consecutive sequence
+You are given an array of unique integers that contain numbers in random order. You have to find the longest possible sequence of consecutive numbers using the numbers from given array.
+You need to return the output array which contains starting and ending element. If the length of the longest possible sequence is one, then the output array must contain only single element.
+Note:
+1. Best solution takes O(n) time.
+2. If two sequences are of equal length, then return the sequence starting with the number whose occurrence is earlier in the array.
+
+
+6. Pairs with difference K
+You are given with an array of integers and an integer K. You have to find and print the count of all such pairs which have difference K.
+Note: Take absolute difference between the elements of the array.
+
+
+7. Longest subarray zero sum
+Given an array consisting of positive and negative integers, find the length of the longest subarray whose sum is zero.
