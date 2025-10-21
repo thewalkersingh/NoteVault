@@ -1,0 +1,31 @@
+Here are some suggestions:
+
+Tell me about yourself. "I am a Full Stack Developer with 2.5 years of experience specializing in Java, Spring Boot, React.js, and JavaScript. I have a strong background in developing web applications, particularly in fintech and banking sectors. I am adaptable, a problem-solver, and committed to delivering high-quality solutions on time."
+
+Walk me through your resume. "Starting with my most recent role, I worked as a Full Stack Developer at [Your Current Company], where I developed key features for LMS portals, such as categorizing projects into completed, expired, and ongoing statuses. Prior to that, I completed my certifications in Java, Spring Boot, and React from Coding Ninjas. My education and experiences have equipped me with a solid foundation in software development and problem-solving skills."
+
+What interests you most about this role? "I am particularly excited about this role because it offers the opportunity to work on innovative projects in the fintech and banking sectors, where I can apply my technical skills in Java, Spring Boot, and React.js.The dynamic and challenging nature of the work aligns perfectly with my career goals and interests."
+
+Why are you looking to leave your current company? "I am looking to leave my current company to explore new challenges and opportunities for growth. I am eager to work in a more dynamic and innovative environment where I can further develop my skills and contribute to exciting projects."
+
+What are your strengths? "My strengths include my proficiency in Java, Spring Boot, and React.js, my ability to adapt to new technologies quickly, and my strong problem-solving skills. I am also highly organized and consistently meet project deadlines."
+
+What are your weaknesses? "One area I am working on is improving my public speaking skills. While I am comfortable with one-on-one and small group discussions, I sometimes find presenting to larger groups challenging. I am actively working on this by participating in workshops and seeking opportunities to present."
+
+What were your responsibilities in your last role? "In my last role, I was responsible for developing and maintaining web applications, particularly for the LMS portal. I designed and implemented features like categorizing projects into completed, expired, and ongoing statuses. Additionally, I collaborated with cross-functional teams to ensure the timely delivery of high-quality software."
+
+Why should we hire you? "My experience in software development, particularly in Java, Spring Boot, and React.js, aligns well with the requirements of this role. I am a problem-solver with a strong track record of delivering projects on time. My adaptable nature and commitment to continuous learning make me a valuable addition to your team."
+
+Where do you see yourself in 10 years? "In 10 years, I see myself in a senior leadership role, such as a Lead Developer or Technical Architect, where I can mentor junior developers and contribute to strategic decision-making. I also aim to stay at the forefront of technological advancements and continue to develop innovative solutions."
+
+What questions do you have for me? "Can you tell me more about the team I would be working with? What are the main challenges you expect the new hire to tackle in the first six months?"
+
+Why are you interested in working for our company? "I am impressed by your company's commitment to innovation and excellence in the fintech and banking sectors. Your projects align perfectly with my skills and interests, and I am excited about the opportunity to contribute to your success."
+
+How did you hear about this position? "I came across this position on [Job Portal/Company Website] and was immediately intrigued by the role and the opportunity to work with your esteemed company."
+
+What’s your current salary? "My current salary is [Your Current Salary], but I am open to discussing a package that reflects my skills and the value I can bring to your team."
+
+What are your salary expectations? "Based on my experience and the industry standards, I am looking for a salary in the range of [Your Expected Salary]. However, I am open to negotiation and willing to discuss further."
+
+When can you start? "I am available to start [mention any notice period or specify if you can start immediately]. I can be flexible to accommodate your needs."
