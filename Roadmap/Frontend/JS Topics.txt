@@ -84,7 +84,7 @@
 	e. Request status & Callback hell
 	
 
---------------------------------	Week 3	------------------------------
+--------------------------------	Week 4	------------------------------
 1. Asynchronous JS-II
 	a. Promises in JS
 	b. fetch() API
